@@ -2,11 +2,11 @@ body {
 	color: black;
 	padding-top: 50px;
 	font-size: larger;
-	background-image: url(spirationdark.png);
+	background-image: url(jaro6.github.io/slike/spirationdark.png);
 
 }
 nav {
-	background-image: url(black.png);
+	background-image: url(jaro6.github.io/slike/black.png);
 	height: 50px;
 }
 .wrap {
@@ -14,7 +14,7 @@ nav {
 	margin: 5% 10% 5% 10%;
 	border-radius: 10px;
 	text-align: center;
-	background-image: url(cream_pixels.png);
+	background-image: url(jaro6.github.io/slike/cream_pixels.png);
 }
 .wrap * {
 	padding: 10px 10px 10px 10px;
