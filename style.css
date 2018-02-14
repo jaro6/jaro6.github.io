@@ -1,0 +1,36 @@
+body {
+	color: black;
+	padding-top: 50px;
+	font-size: larger;
+	background-image: url(spirationdark.png);
+
+}
+nav {
+	background-image: url(black.png);
+	height: 50px;
+}
+.wrap {
+	background-color: white;
+	margin: 5% 10% 5% 10%;
+	border-radius: 10px;
+	text-align: center;
+	background-image: url(cream_pixels.png);
+}
+.wrap * {
+	padding: 10px 10px 10px 10px;
+}
+#slika {
+	border-radius: 50%;
+}
+.skil {
+	font-size: 300%;
+	font-family: arial black;
+	color: white;
+	border-radius: 15px;
+	border: 2px solid;
+	border-color: black;
+}
+.strech {
+	width: 100%;
+	background-size: contain;
+}
